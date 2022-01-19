@@ -1,0 +1,27 @@
+section {
+    display: flex;
+    margin-top: 10%;
+    justify-content: space-around;
+}
+
+.card-container{
+    background-color: lightgray;
+    border-radius: 10%;
+    width: 25%;
+    height: 50%;
+}
+
+.ConstrucaoCivil{
+    width: 50%;
+    height: 50%;
+}
+
+.Eletricas {
+    width: 50%;
+    height: 50%;
+}
+
+.Informatica {
+    width: 50%;
+    height: 50%;
+}

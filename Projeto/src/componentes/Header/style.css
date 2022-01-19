@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+}
+
+.Logo-Senai{
+    height: 18%;
+    width: 18%;
+}
+
+h1{
+    height: 20%;
+}
